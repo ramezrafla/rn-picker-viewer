@@ -42,7 +42,7 @@
       "@commitlint/config-conventional"
     ]
   },
-  "packageManager": "yarn@4.5.1",
+  "packageManager": "yarn",
   "dependencies": {
     "@commitlint/cli": "^18.6.1",
     "@commitlint/config-conventional": "^18.6.3",
